@@ -48,12 +48,11 @@
 ### ☕️ 스타벅스 클론
 
 <p>
-  <img src="images/Starbucks/home1.png" width="20%">
-  <img src="images/Starbucks/home2.jpeg" width="20%">
-  <img src="images/Starbucks/category.png" width="20%">
-  <img src="images/Starbucks/theme.png" width="20%">
+  <img src="images/Starbucks/home1.PNG" width="20%">
+  <img src="images/Starbucks/home2.PNG" width="20%">
+  <img src="images/Starbucks/category.PNG" width="20%">
+  <img src="images/Starbucks/theme.PNG" width="20%">
 </p>
-
 
 
 - 개발 기간: 
