@@ -52,6 +52,10 @@
   
 ### 도더지 - 두더지 잡기 게임 💥🔨
 
+<p>
+  <img src="images/DoDeoGee/game.png" width="30%">
+</p>
+
 - 개발 기간: 2020.02.06 ~ 2020.02.07(2일)
 
 - 사용 기술:
@@ -65,7 +69,13 @@
   
 - [더보기](https://github.com/jisng/hackathon-2)
 
-### Safe.Money.Layout - 가계부 💸
+### Safe.Money.Guide - 가계부 💸
+
+<p>
+  <img src="images/SafeMoneyGuide/day.png" width="30%">
+  <img src="images/SafeMoneyGuide/month.png" width="30%">
+  <img src="images/SafeMoneyGuide/stats.png" width="30%">
+</p>
 
 - 개발 기간: 2020.01.17(1일)
 
@@ -80,6 +90,7 @@
   - 통계 UI
   - 달력 UI
   
+
 - [더보기](https://github.com/jisng/hackathon-1)
 
 ## 공부 이력
