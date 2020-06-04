@@ -95,7 +95,7 @@
 
 ## 공부 이력
 
-### 패스트캠퍼스 iOS School.
-
-수업을 듣고 [TIL](https://github.com/jisng/TIL)을 정리하며 복습했습니다. 
+- 패스트캠퍼스 iOS School
+  - 기간: 2019.11 ~ 2019.04 (6개월)
+  - 스쿨 기간동안 [TIL](https://github.com/jisng/TIL)을 정리하며 복습했습니다. 
 
