@@ -14,16 +14,22 @@
   - [가계부](https://github.com/jisng/resume/blob/master/README.md#safemoneylayout---%EA%B0%80%EA%B3%84%EB%B6%80)
   
 - 공부이력
-  - [패스트캠퍼스 iOS School](https://github.com/jisng/resume/blob/master/README.md#%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4-ios-school)
+  - [패스트캠퍼스 iOS School]([https://github.com/jisng/resume/blob/master/README.md#%EA%B3%B5%EB%B6%80-%EC%9D%B4%EB%A0%A5](https://github.com/jisng/resume/blob/master/README.md#공부-이력))
   
 - 경력
   - (2016.03 ~ 2017.05) (주)다노 오프라인 운영팀
   
 ## 프로젝트
 
-### 당근마켓 클론 🥕
+### 🥕 당근마켓 클론
 
-- 개발 기간: 2020.03.20 ~ 2020.04.29(약 1달)
+<p>
+  <img src="images/DG/Launch.png" width="20%">
+</p>
+
+
+
+- 개발 기간: 2020.03.20 ~ 2020.04.29 (약 1달)
 
 - 사용 기술:
   - Language: Swift
@@ -39,7 +45,16 @@
   
 - [더보기](https://github.com/jisng/iOS_DaangnMarket)
 
-### 스타벅스 클론 ☕️
+### ☕️ 스타벅스 클론
+
+<p>
+  <img src="images/Starbucks/home1.png" width="20%">
+  <img src="images/Starbucks/home2.jpeg" width="20%">
+  <img src="images/Starbucks/category.png" width="20%">
+  <img src="images/Starbucks/theme.png" width="20%">
+</p>
+
+
 
 - 개발 기간: 
 
@@ -50,13 +65,14 @@
 - 담당 구현:
   - GiftShop
   
-### 도더지 - 두더지 잡기 게임 💥🔨
+- [더보기](https://github.com/jisng/Starbucks-Clone)
+### 💥🔨 도더지 - 두더지 잡기 게임
 
 <p>
   <img src="images/DoDeoGee/game.png" width="20%">
 </p>
 
-- 개발 기간: 2020.02.06 ~ 2020.02.07(2일)
+- 개발 기간: 2020.02.06 ~ 2020.02.07 (2일)
 
 - 사용 기술:
   - Language: Swift
@@ -69,7 +85,7 @@
   
 - [더보기](https://github.com/jisng/hackathon-2)
 
-### Safe.Money.Guide - 가계부 💸
+### 💸 Safe.Money.Guide - 가계부
 
 <p>
   <img src="images/SafeMoneyGuide/day.png" width="20%">
@@ -77,7 +93,7 @@
   <img src="images/SafeMoneyGuide/stats.png" width="20%">
 </p>
 
-- 개발 기간: 2020.01.17(1일)
+- 개발 기간: 2020.01.17 (1일)
 
 - 사용 기술:
   - Language: Swift
@@ -90,7 +106,6 @@
   - 통계 UI
   - 달력 UI
   
-
 - [더보기](https://github.com/jisng/hackathon-1)
 
 ## 공부 이력
