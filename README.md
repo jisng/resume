@@ -53,7 +53,7 @@
 ### 도더지 - 두더지 잡기 게임 💥🔨
 
 <p>
-  <img src="images/DoDeoGee/game.png" width="30%">
+  <img src="images/DoDeoGee/game.png" width="20%">
 </p>
 
 - 개발 기간: 2020.02.06 ~ 2020.02.07(2일)
@@ -72,9 +72,9 @@
 ### Safe.Money.Guide - 가계부 💸
 
 <p>
-  <img src="images/SafeMoneyGuide/day.png" width="30%">
-  <img src="images/SafeMoneyGuide/month.png" width="30%">
-  <img src="images/SafeMoneyGuide/stats.png" width="30%">
+  <img src="images/SafeMoneyGuide/day.png" width="20%">
+  <img src="images/SafeMoneyGuide/month.png" width="20%">
+  <img src="images/SafeMoneyGuide/stats.png" width="20%">
 </p>
 
 - 개발 기간: 2020.01.17(1일)
