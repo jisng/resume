@@ -21,13 +21,66 @@
   
 ## 프로젝트
 
-### 당근마켓 클론
+### 당근마켓 클론 🥕
 
-### 스타벅스 클론
+- 개발 기간: 2020.03.20 ~ 2020.04.29(약 1달)
 
-### 도더지 - 두더지 잡기 게임
+- 사용 기술:
+  - Language: Swift
+  - FrameWork:  UIKit, CoreLocation
+  - Service : FCM, APNs, Firebase Authorization(Phone)
+  - Library : Then, Alamofire, SnapKit, KingFisher, SwiftLint
+  
+- 담당 구현:
+  - 글쓰기:
+  - 검색:
+  - 카테고리:
+  - 동네 추가 인증:
+  
+- [더보기](https://github.com/jisng/iOS_DaangnMarket)
 
-### Safe.Money.Layout - 가계부
+### 스타벅스 클론 ☕️
+
+- 개발 기간: 
+
+- 사용 기술:
+  - Language: Swift
+  - FrameWork: UIKit
+  
+- 담당 구현:
+  - GiftShop
+  
+### 도더지 - 두더지 잡기 게임 💥🔨
+
+- 개발 기간: 2020.02.06 ~ 2020.02.07(2일)
+
+- 사용 기술:
+  - Language: Swift
+  - FrameWork: UIKit, UIViewAnimaition, AVAudioPlayer
+  
+- 담당 구현:
+  - 두더지가 랜덤하게 나올 수 있도록 기능 구현
+  - 레벨 별 난이도 설정, 난이도에 맞춰 두더지가 나올 수 있도록 구현
+  - 게임 종료시 점수 합산, 레벨 별 최고 점수 저장
+  
+- [더보기](https://github.com/jisng/hackathon-2)
+
+### Safe.Money.Layout - 가계부 💸
+
+- 개발 기간: 2020.01.17(1일)
+
+- 사용 기술:
+  - Language: Swift
+  - FrameWork: UIKit
+  - Library: JTAppleCalendar
+  
+- 담당 구현:
+  - 기획
+  - 오늘 하루 지출 상태 UI
+  - 통계 UI
+  - 달력 UI
+  
+- [더보기](https://github.com/jisng/hackathon-1)
 
 ## 공부 이력
 
