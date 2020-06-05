@@ -27,21 +27,27 @@
   <img src="images/DG/Launch.png" width="20%">
 </p>
 
-
-
 - 개발 기간: 2020.03.20 ~ 2020.04.29 (약 1달)
 
 - 사용 기술:
   - Language: Swift
-  - FrameWork:  UIKit, CoreLocation
-  - Service : FCM, APNs, Firebase Authorization(Phone)
+  - FrameWork: UIKit, CoreLocation
   - Library : Then, Alamofire, SnapKit, KingFisher, SwiftLint
   
 - 담당 구현:
   - 글쓰기:
+    - 카메라 및 앨범에 접근하여 게시글에 올릴 사진 선택 가능
+    - 필수 입력 사항이 충족되지 않으면 게시 불가, 알림창으로 알려줌
+    - 게시 버튼 클릭시, 내용 모두 서버에 저장
   - 검색:
+    - 텍스트 필드에 글자가 입력 될 때마다 서버에 요청하여 일치하는 키워드 리스트 보여줌
+    - 선택한 키워드(검색어)에 일치하는 게시글 리스트 보여줌
   - 카테고리:
-  - 동네 추가 인증:
+    - 선택한 카테고리에 따른 게시글 리스트 보여줌
+  - 동네 추가 인증: 
+    - 사용자의 현재 위치와 사용자가 선택한 동네 위치 비교
+    - 같으면 현재 위치로 동네 인증
+    - 다르면 현재 위치 주변의 동네 리스트 보여주고, 선택한 동네로 인증
   
 - [더보기](https://github.com/jisng/iOS_DaangnMarket)
 
@@ -49,20 +55,21 @@
 
 <p>
   <img src="images/Starbucks/home1.PNG" width="20%">
-  <img src="images/Starbucks/home2.jpeg" width="20%">
   <img src="images/Starbucks/category.PNG" width="20%">
   <img src="images/Starbucks/theme.PNG" width="20%">
 </p>
 
 
-- 개발 기간: 
+- 개발 기간: (2주)
 
 - 사용 기술:
   - Language: Swift
   - FrameWork: UIKit
   
-- 담당 구현:
-  - GiftShop
+- 담당 구현: GiftShop
+  - 실제 앱과 최대한 유사하도록 UI 
+  - 배너 일정 시간 자동 스크롤
+  - ScrollView 중첩 사용, 버튼 클릭시 스크롤 
   
 - [더보기](https://github.com/jisng/Starbucks-Clone)
 ### 💥🔨 도더지 - 두더지 잡기 게임
