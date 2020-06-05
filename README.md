@@ -24,8 +24,11 @@
 ### 🥕 당근마켓 클론
 
 <p>
-  <img src="images/DG/Launch.png" width="20%">
+  <img src="images/DG/writting.png" width="20%">
+  <img src="images/DG/search.png" width="20%">
+  <img src="images/DG/category.png" width="20%">
 </p>
+
 
 - 개발 기간: 2020.03.20 ~ 2020.04.29 (약 1달)
 
