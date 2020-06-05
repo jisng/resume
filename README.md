@@ -24,9 +24,9 @@
 ### 🥕 당근마켓 클론
 
 <p>
-  <img src="images/DG/writting.png" width="20%">
-  <img src="images/DG/search.png" width="20%">
-  <img src="images/DG/category.png" width="20%">
+  <img src="images/DG/writting.PNG" width="20%">
+  <img src="images/DG/search.PNG" width="20%">
+  <img src="images/DG/category.PNG" width="20%">
 </p>
 
 
