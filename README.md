@@ -34,9 +34,9 @@
 - 담당 구현:
 
   <p>
-    <img src="images/DG/writting.png" width="20%">
-    <img src="images/DG/search.png" width="20%">
-    <img src="images/DG/category.png" width="20%">
+    <img src="images/DG/writting.PNG" width="20%">
+    <img src="images/DG/search.PNG" width="20%">
+    <img src="images/DG/category.PNG" width="20%">
   </p>
 
   - 글쓰기:
