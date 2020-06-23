@@ -23,13 +23,6 @@
 
 ### 🥕 당근마켓 클론
 
-<p>
-  <img src="images/DG/writting.png" width="20%">
-  <img src="images/DG/search.png" width="20%">
-  <img src="images/DG/category.png" width="20%">
-</p>
-
-
 - 개발 기간: 2020.03.20 ~ 2020.04.29 (약 1달)
 
 - 사용 기술:
@@ -38,6 +31,13 @@
   - Library : Then, Alamofire, SnapKit, KingFisher, SwiftLint
   
 - 담당 구현:
+
+  <p>
+    <img src="images/DG/writting.png" width="20%">
+    <img src="images/DG/search.png" width="20%">
+    <img src="images/DG/category.png" width="20%">
+  </p>
+
   - 글쓰기:
     - 카메라 및 앨범에 접근하여 게시글에 올릴 사진 선택 가능
     - 필수 입력 사항이 충족되지 않으면 게시 불가, 알림창으로 알려줌
@@ -51,17 +51,10 @@
     - 사용자의 현재 위치와 사용자가 선택한 동네 위치 비교
     - 같으면 현재 위치로 동네 인증
     - 다르면 현재 위치 주변의 동네 리스트 보여주고, 선택한 동네로 인증
-  
-- [더보기](https://github.com/jisng/iOS_DaangnMarket)
+
+- [ 🔍 더보기](https://github.com/jisng/iOS_DaangnMarket)
 
 ### ☕️ 스타벅스 클론
-
-<p>
-  <img src="images/Starbucks/home1.PNG" width="20%">
-  <img src="images/Starbucks/category.PNG" width="20%">
-  <img src="images/Starbucks/theme.PNG" width="20%">
-</p>
-
 
 - 개발 기간: (2주)
 
@@ -70,29 +63,34 @@
   - FrameWork: UIKit
   
 - 담당 구현: GiftShop
+
+  <p>
+    <img src="images/Starbucks/home1.PNG" width="20%">
+    <img src="images/Starbucks/category.PNG" width="20%">
+    <img src="images/Starbucks/theme.PNG" width="20%">
+  </p>
+
   - 실제 앱과 최대한 유사하도록 UI 
   - 배너 일정 시간 자동 스크롤
   - ScrollView 중첩 사용, 버튼 클릭시 스크롤 
-  
-- [더보기](https://github.com/jisng/Starbucks-Clone)
+
+- [ 🔍 더보기](https://github.com/jisng/Starbucks-Clone)
 ### 💥🔨 도더지 - 두더지 잡기 게임
 
 <p>
   <img src="images/DoDeoGee/game.png" width="20%">
 </p>
 
+- [앱스토어 바로가기 🛒]([https://apps.apple.com/kr/app/%EB%8F%84%EB%8D%94%EC%A7%80-%EB%91%90%EB%8D%94%EC%A7%80-%EC%9E%A1%EA%B8%B0-%EA%B2%8C%EC%9E%84/id1516156098](https://apps.apple.com/kr/app/도더지-두더지-잡기-게임/id1516156098))
 - 개발 기간: 2020.02.06 ~ 2020.02.07 (2일)
-
 - 사용 기술:
   - Language: Swift
   - FrameWork: UIKit, UIViewAnimaition, AVAudioPlayer
-  
 - 담당 구현:
   - 두더지가 랜덤하게 나올 수 있도록 기능 구현
   - 레벨 별 난이도 설정, 난이도에 맞춰 두더지가 나올 수 있도록 구현
   - 게임 종료시 점수 합산, 레벨 별 최고 점수 저장
-  
-- [더보기](https://github.com/jisng/hackathon-2)
+- [ 🔍 더보기](https://github.com/jisng/hackathon-2)
 
 ### 💸 Safe.Money.Guide - 가계부
 
@@ -115,11 +113,11 @@
   - 통계 UI
   - 달력 UI
   
-- [더보기](https://github.com/jisng/hackathon-1)
+- [ 🔍 더보기](https://github.com/jisng/hackathon-1)
 
 ## 공부 이력
 
 - 패스트캠퍼스 iOS School
   - 기간: 2019.11 ~ 2019.04 (6개월)
-  - 스쿨 기간동안 [TIL](https://github.com/jisng/TIL)을 정리하며 복습했습니다. 
-
+  - [TIL](https://github.com/jisng/TIL) : 수업 후 배운 것을 정리하였습니다.
+  - [Swift Study](https://github.com/TheSwifters/iOS-Study) : 스위프트 기본 문법에 대해 함께 공부했습니다. 
