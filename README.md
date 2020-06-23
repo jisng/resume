@@ -3,7 +3,8 @@
 > 🔹 기획하고 개발하는 걸 좋아하는 iOS 개발자입니다. 
 
 - email: jxsxxng@gmail.com
-- github: [github.com/jisng](https://github.com/jisng)
+- [github](https://github.com/jisng)
+- [blog](https://jisng.github.io/)
 
 ## 목차
 
@@ -121,3 +122,4 @@
   - 기간: 2019.11 ~ 2019.04 (6개월)
   - [TIL](https://github.com/jisng/TIL) : 수업 후 배운 것을 정리하였습니다.
   - [Swift Study](https://github.com/TheSwifters/iOS-Study) : 스위프트 기본 문법에 대해 함께 공부했습니다. 
+  - [RxStudy](https://github.com/jisng/RxStudy) : RxSwift 에 대해 공부 중입니다 (진행중)
