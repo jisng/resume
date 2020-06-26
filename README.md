@@ -3,8 +3,7 @@
 > 🔹 기획하고 개발하는 걸 좋아하는 iOS 개발자입니다. 
 
 - email: jxsxxng@gmail.com
-- [github](https://github.com/jisng)
-- [blog](https://jisng.github.io/)
+- blog: (https://jisng.github.io/)
 
 ## 목차
 
@@ -15,7 +14,7 @@
   - [가계부](https://github.com/jisng/resume#-safemoneyguide---%EA%B0%80%EA%B3%84%EB%B6%80)
   
 - 공부이력
-  - [패스트캠퍼스 iOS School]([https://github.com/jisng/resume/blob/master/README.md#%EA%B3%B5%EB%B6%80-%EC%9D%B4%EB%A0%A5](https://github.com/jisng/resume/blob/master/README.md#공부-이력))
+  - [패스트캠퍼스 iOS School]([https://github.com/jisng/resume/blob/master/README.md#%EA%B3%B5%EB%B6%80-%EC%9D%B4%EB%A0%A5](https://github.com/jisng/resume/blob/master/README.md#공부-이력)) (2019.11 ~ 2020.04 6개월)
   
 - 경력
   - (2016.03 ~ 2017.05) (주)다노 오프라인 운영팀
@@ -146,5 +145,5 @@
 - 패스트캠퍼스 iOS School
   - 기간: 2019.11 ~ 2019.04 (6개월)
   - [TIL](https://github.com/jisng/TIL) : 수업 후 배운 것을 정리하였습니다.
-  - [Swift Study](https://github.com/TheSwifters/iOS-Study) : 스위프트 기본 문법에 대해 함께 공부했습니다. 
-  - [RxStudy](https://github.com/jisng/RxStudy) : RxSwift 에 대해 공부 중입니다 (진행중)
+
+- [Swift Study](https://github.com/TheSwifters/iOS-Study) (2019.02) : 스위프트 기본 문법에 대해 함께 공부했습니다. 
