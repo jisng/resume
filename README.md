@@ -24,6 +24,12 @@
 
 ### 🥕 당근마켓 클론
 
+<p>
+  <img src="images/DG/writting.PNG" width="20%">
+  <img src="images/DG/search.PNG" width="20%">
+  <img src="images/DG/category.PNG" width="20%">
+</p>
+
 - 𖤐 학습 포인트
   - 네트워크 콜을 통해 게시글을 등록하고 보여주는 기능 경험
   - 최근 가장 인기있는 어플을 클론하며 직관적인 UI/UX 경험
@@ -37,13 +43,6 @@
   - Library : Then, Alamofire, SnapKit, KingFisher, SwiftLint
   
 - 담당 구현:
-
-  <p>
-    <img src="images/DG/writting.PNG" width="20%">
-    <img src="images/DG/search.PNG" width="20%">
-    <img src="images/DG/category.PNG" width="20%">
-  </p>
-
   - 글쓰기:
     - 카메라 및 앨범에 접근하여 게시글에 올릴 사진 선택 가능
     - 필수 입력 사항이 충족되지 않으면 게시 불가, 알림창으로 알려줌
@@ -64,6 +63,12 @@
 
 ### ☕️ 스타벅스 클론
 
+<p>
+  <img src="images/Starbucks/home1.PNG" width="20%">
+  <img src="images/Starbucks/category.PNG" width="20%">
+  <img src="images/Starbucks/theme.PNG" width="20%">
+</p>
+
 - 𖤐 학습 포인트
   - 대표적인 커머스 UI/UX 를 경험
   - 일괄적인 UI 구현을 위해 재사용 가능한 코드 작성
@@ -75,13 +80,6 @@
   - FrameWork: UIKit
   
 - 담당 구현: GiftShop
-
-  <p>
-    <img src="images/Starbucks/home1.PNG" width="20%">
-    <img src="images/Starbucks/category.PNG" width="20%">
-    <img src="images/Starbucks/theme.PNG" width="20%">
-  </p>
-
   - 실제 앱과 최대한 유사하도록 UI 
   - 배너 일정 시간 자동 스크롤
   - ScrollView 중첩 사용, 버튼 클릭시 스크롤 
@@ -91,6 +89,10 @@
 <br>
 
 ### 💥🔨 도더지 - 두더지 잡기 게임
+
+<p>
+  <img src="images/DoDeoGee/game.png" width="20%">
+</p>
 
 - 𖤐 학습 포인트
   - 앱스토어 출시 경험
@@ -106,12 +108,10 @@
   - FrameWork: UIKit, UIViewAnimaition, AVAudioPlayer
   
 - 담당 구현:
-  <p>
-  <img src="images/DoDeoGee/game.png" width="20%">
-  </p>
   - 두더지가 랜덤하게 나올 수 있도록 기능 구현
   - 레벨 별 난이도 설정, 난이도에 맞춰 두더지가 나올 수 있도록 구현
   - 게임 종료시 점수 합산, 레벨 별 최고 점수 저장
+  
 - [ 🔍 더보기](https://github.com/jisng/hackathon-2)
 
 <br>
