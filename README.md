@@ -143,7 +143,7 @@
 ## 공부 이력
 
 - 패스트캠퍼스 iOS School
-  - 기간: 2019.11 ~ 2019.04 (6개월)
+  - 기간: 2019.11 ~ 2020.04 (6개월)
   - [TIL](https://github.com/jisng/TIL) : 수업 후 배운 것을 정리하였습니다.
 
-- [Swift Study](https://github.com/TheSwifters/iOS-Study) (2019.02) : 스위프트 기본 문법에 대해 함께 공부했습니다. 
+- [Swift Study](https://github.com/TheSwifters/iOS-Study) (2020.02) : 스위프트 기본 문법에 대해 함께 공부했습니다. 
